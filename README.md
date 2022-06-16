@@ -1,5 +1,5 @@
-# Chat App Using MERN
-Web Chat App Developed using MERN Stack,
+# Chat App Using MERN Stack
+Developed Web Chat App using MERN Stack, 
 FrontEnd- ReactJS
 BackEnd- MongoDB,NodeJS
 
